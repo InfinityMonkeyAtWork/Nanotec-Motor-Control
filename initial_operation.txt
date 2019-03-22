@@ -1,0 +1,39 @@
+general info:
+manuals and handbook on nanotec.com
+
+1. Communication with Driver
+
+- Open Measurement and Automation (LabVIEW)
+- My System\Devices and Interfaces\Serial & Parallel\COM"Number"
+- Set:
+	baud rate	115200
+	packet size	8
+	stop bits	1
+	parity bits	0
+	flow control	none
+
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

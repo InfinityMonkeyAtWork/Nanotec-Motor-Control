@@ -1,0 +1,4096 @@
+Preparation Chamber moved 48000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 1002 Steps before finishing.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 48000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 23375 Steps before finishing.
+Preparation Chamber moved 500 Steps clockwise.
+Preparation Chamber moved 50 Steps clockwise.
+Preparation Chamber moved 50 Steps clockwise.
+Preparation Chamber moved 50 Steps clockwise.
+Manipulator moved 60000 Steps in.
+!!! Line above is NOT correct!!!
+Movement was interupted 1749 Steps before finishing.
+Manipulator moved 5000 Steps in.
+!!! Line above is NOT correct!!!
+Movement was interupted 2439 Steps before finishing.
+Manipulator moved 1000 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 50 Steps right.
+Manipulator moved 50 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps out.
+Manipulator moved 50 Steps right.
+Manipulator moved 50 Steps right.
+Manipulator moved 0 Steps left.
+Manipulator moved 50 Steps left.
+Manipulator moved 500 Steps down.
+Manipulator moved 60000 Steps out.
+Preparation Chamber moved 48000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 24140 Steps before finishing.
+Preparation Chamber moved 1000 Steps counterclockwise.
+Preparation Chamber moved 500 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 50 Steps counterclockwise.
+Preparation Chamber moved 50 Steps counterclockwise.
+Manipulator moved 1000 Steps out.
+Manipulator moved 5000 Steps out.
+!!! Line above is NOT correct!!!
+Movement was interupted 882 Steps before finishing.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Preparation Chamber moved 48000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 22347 Steps before finishing.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 50 Steps clockwise.
+Manipulator moved 60000 Steps in.
+Manipulator moved 500 Steps in.
+!!! Line above is NOT correct!!!
+Movement was interupted 207 Steps before finishing.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps down.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps in.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 50 Steps right.
+Manipulator moved 50 Steps right.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps out.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps down.
+Manipulator moved 50 Steps down.
+Manipulator moved 25 Steps out.
+Manipulator moved 25 Steps out.
+Manipulator moved 25 Steps out.
+Manipulator moved 25 Steps in.
+Manipulator moved 25 Steps up.
+Manipulator moved 25 Steps up.
+Manipulator moved 25 Steps out.
+Manipulator moved 25 Steps in.
+Manipulator moved 10 Steps out.
+Manipulator moved 10 Steps in.
+Manipulator moved 10 Steps in.
+Manipulator moved 10 Steps out.
+Manipulator moved 25 Steps out.
+Manipulator moved 25 Steps in.
+Manipulator moved 25 Steps in.
+Manipulator moved 25 Steps in.
+Manipulator moved 25 Steps out.
+Manipulator moved 25 Steps out.
+Manipulator moved 25 Steps up.
+Manipulator moved 25 Steps down.
+Manipulator moved 25 Steps down.
+Manipulator moved 25 Steps up.
+Manipulator moved 25 Steps out.
+Manipulator moved 25 Steps out.
+Manipulator moved 25 Steps down.
+Manipulator moved 500 Steps down.
+Manipulator moved 60000 Steps out.
+Manipulator moved 1000 Steps up.
+Preparation Chamber moved 60000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 6320 Steps before finishing.
+Preparation Chamber moved 10000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 6141 Steps before finishing.
+Preparation Chamber moved 10000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 9328 Steps before finishing.
+Preparation Chamber moved 10000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 9152 Steps before finishing.
+Manipulator moved 1000 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps out.
+Manipulator moved 1000 Steps out.
+Preparation Chamber moved 60000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 3294 Steps before finishing.
+Preparation Chamber moved 50 Steps counterclockwise.
+Preparation Chamber moved 50 Steps counterclockwise.
+Preparation Chamber moved 50 Steps counterclockwise.
+Manipulator moved 1000 Steps down.
+Manipulator moved 100 Steps up.
+Manipulator moved 500 Steps up.
+Manipulator moved 1000 Steps up.
+Preparation Chamber moved 60000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 3146 Steps before finishing.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Preparation Chamber moved 60000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 3478 Steps before finishing.
+Preparation Chamber moved 50 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 50 Steps counterclockwise.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 100 Steps down.
+Manipulator moved 500 Steps down.
+Manipulator moved 1000 Steps down.
+Manipulator moved 60000 Steps in.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 50 Steps down.
+Manipulator moved 50 Steps up.
+Manipulator moved 500 Steps down.
+Manipulator moved 500 Steps up.
+!!! Line above is NOT correct!!!
+Movement was interupted 127 Steps before finishing.
+Manipulator moved 100 Steps up.
+Manipulator moved 500 Steps down.
+Manipulator moved 60000 Steps out.
+Manipulator moved 1000 Steps up.
+Manipulator moved 500 Steps up.
+Preparation Chamber moved 60000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 1935 Steps before finishing.
+Manipulator moved 1000 Steps in.
+Manipulator moved 500 Steps in.
+Preparation Chamber moved 5000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 3801 Steps before finishing.
+Manipulator moved 1000 Steps out.
+Manipulator moved 500 Steps out.
+Preparation Chamber moved 60000 Steps counterclockwise.
+Preparation Chamber moved 60000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 38275 Steps before finishing.
+Preparation Chamber moved 1000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 481 Steps before finishing.
+Preparation Chamber moved 500 Steps clockwise.
+Preparation Chamber moved 500 Steps clockwise.
+Manipulator moved 500 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 5000 Steps out.
+Manipulator moved 5000 Steps in.
+Preparation Chamber moved 60000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 34547 Steps before finishing.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 50 Steps counterclockwise.
+Manipulator moved 3500 Steps in.
+Manipulator moved 1000 Steps down.
+Manipulator moved 1000 Steps up.
+Manipulator moved 1000 Steps down.
+Manipulator moved 500 Steps up.
+Manipulator moved 500 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 60000 Steps in.
+!!! Line above is NOT correct!!!
+Movement was interupted 1790 Steps before finishing.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 290 Steps in.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps up.
+Manipulator moved 25 Steps down.
+Manipulator moved 10 Steps up.
+Manipulator moved 500 Steps down.
+Manipulator moved 60000 Steps out.
+Manipulator moved 3500 Steps out.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Preparation Chamber moved 60000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 35338 Steps before finishing.
+Preparation Chamber moved 500 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 60000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 33890 Steps before finishing.
+Preparation Chamber moved 50 Steps clockwise.
+Manipulator moved 60000 Steps in.
+!!! Line above is NOT correct!!!
+Movement was interupted 357 Steps before finishing.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 50 Steps up.
+Manipulator moved 500 Steps down.
+Manipulator moved 60000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Preparation Chamber moved 48000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 9147 Steps before finishing.
+Preparation Chamber moved 0 Steps clockwise.
+Preparation Chamber moved 48000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 17264 Steps before finishing.
+Preparation Chamber moved 48000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 47337 Steps before finishing.
+Preparation Chamber moved 10000 Steps counterclockwise.
+Preparation Chamber moved 10000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 4903 Steps before finishing.
+Preparation Chamber moved 500 Steps clockwise.
+Preparation Chamber moved 1000 Steps clockwise.
+Preparation Chamber moved 500 Steps clockwise.
+Preparation Chamber moved 500 Steps counterclockwise.
+Preparation Chamber moved 500 Steps counterclockwise.
+Preparation Chamber moved 500 Steps counterclockwise.
+Preparation Chamber moved 500 Steps counterclockwise.
+Manipulator moved 5000 Steps in.
+Manipulator moved 1000 Steps in.
+Preparation Chamber moved 5000 Steps counterclockwise.
+Preparation Chamber moved 5000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 587 Steps before finishing.
+Manipulator moved 5000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Preparation Chamber moved 60000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 48037 Steps before finishing.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps in.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 500 Steps right.
+Manipulator moved 500 Steps left.
+Manipulator moved 500 Steps left.
+Manipulator moved 500 Steps left.
+Manipulator moved 500 Steps right.
+Preparation Chamber moved 48000 Steps counterclockwise.
+Preparation Chamber moved 48000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 36417 Steps before finishing.
+Preparation Chamber moved 48000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 22359 Steps before finishing.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 50 Steps clockwise.
+Manipulator moved 60000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps right.
+Manipulator moved 50 Steps out.
+Manipulator moved 50 Steps out.
+Manipulator moved 50 Steps right.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps down.
+Manipulator moved 25 Steps in.
+Manipulator moved 500 Steps down.
+Manipulator moved 60000 Steps out.
+Manipulator moved 5000 Steps out.
+!!! Line above is NOT correct!!!
+Movement was interupted 777 Steps before finishing.
+Preparation Chamber moved 48000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 2967 Steps before finishing.
+Preparation Chamber moved 60000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 49328 Steps before finishing.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 50 Steps clockwise.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps in.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Preparation Chamber moved 60000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 2631 Steps before finishing.
+Preparation Chamber moved 1000 Steps clockwise.
+Preparation Chamber moved 500 Steps clockwise.
+Manipulator moved 1000 Steps down.
+Manipulator moved 500 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 60000 Steps in.
+!!! Line above is NOT correct!!!
+Movement was interupted 275 Steps before finishing.
+Manipulator moved 1000 Steps in.
+!!! Line above is NOT correct!!!
+Movement was interupted 699 Steps before finishing.
+Manipulator moved 500 Steps down.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 500 Steps out.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps out.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps up.
+Manipulator moved 500 Steps down.
+Manipulator moved 500 Steps up.
+Manipulator moved 500 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 60000 Steps out.
+Manipulator moved 1000 Steps up.
+Manipulator moved 1000 Steps up.
+Preparation Chamber moved 60000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 4184 Steps before finishing.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 5000 Steps out.
+Preparation Chamber moved 48000 Steps counterclockwise.
+Preparation Chamber moved 10000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 1980 Steps before finishing.
+Preparation Chamber moved 10000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 9275 Steps before finishing.
+Manipulator moved 1000 Steps down.
+Manipulator moved 500 Steps down.
+Manipulator moved 500 Steps right.
+Manipulator moved 500 Steps left.
+Manipulator moved 500 Steps left.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 60000 Steps in.
+Manipulator moved 1000 Steps left.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps up.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 500 Steps up.
+Manipulator moved 500 Steps left.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 50 Steps right.
+Manipulator moved 500 Steps down.
+Manipulator moved 500 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps in.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps right.
+Manipulator moved 60000 Steps out.
+Preparation Chamber moved 48000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 23322 Steps before finishing.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 500 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 50 Steps in.
+Preparation Chamber moved 48000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 23007 Steps before finishing.
+Preparation Chamber moved 500 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 50 Steps clockwise.
+Manipulator moved 60000 Steps in.
+Manipulator moved 5000 Steps in.
+!!! Line above is NOT correct!!!
+Movement was interupted 2027 Steps before finishing.
+Manipulator moved 500 Steps up.
+Manipulator moved 500 Steps up.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps down.
+Manipulator moved 500 Steps down.
+Manipulator moved 500 Steps up.
+Manipulator moved 500 Steps up.
+Manipulator moved 500 Steps left.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 100 Steps in.
+Manipulator moved 64000 Steps out.
+Preparation Chamber moved 10000 Steps counterclockwise.
+Preparation Chamber moved 48000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 32510 Steps before finishing.
+Preparation Chamber moved 50 Steps counterclockwise.
+Preparation Chamber moved 50 Steps counterclockwise.
+Preparation Chamber moved 50 Steps counterclockwise.
+Preparation Chamber moved 50 Steps clockwise.
+Preparation Chamber moved 50 Steps counterclockwise.
+Preparation Chamber moved 50 Steps counterclockwise.
+Preparation Chamber moved 50 Steps counterclockwise.
+Preparation Chamber moved 50 Steps counterclockwise.
+Preparation Chamber moved 50 Steps counterclockwise.
+Preparation Chamber moved 50 Steps counterclockwise.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 1000 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Preparation Chamber moved 48000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 22238 Steps before finishing.
+Preparation Chamber moved 100 Steps clockwise.
+Manipulator moved 60000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 60000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Preparation Chamber moved 48000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 22331 Steps before finishing.
+Preparation Chamber moved 100 Steps counterclockwise.
+Manipulator moved 1000 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 1000 Steps up.
+Manipulator moved 500 Steps up.
+Manipulator moved 100 Steps up.
+Preparation Chamber moved 48000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 22241 Steps before finishing.
+Preparation Chamber moved 50 Steps clockwise.
+Manipulator moved 60000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps out.
+Manipulator moved 500 Steps in.
+Manipulator moved 60000 Steps out.
+Preparation Chamber moved 48000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 22428 Steps before finishing.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 50 Steps clockwise.
+Manipulator moved 1000 Steps down.
+Manipulator moved 500 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 1000 Steps up.
+Manipulator moved 500 Steps up.
+Manipulator moved 100 Steps up.
+Preparation Chamber moved 48000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 22941 Steps before finishing.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Manipulator moved 60000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 60000 Steps out.
+Preparation Chamber moved 60000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 3856 Steps before finishing.
+Preparation Chamber moved 1000 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Preparation Chamber moved 60000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 4423 Steps before finishing.
+Preparation Chamber moved 48000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 15536 Steps before finishing.
+Preparation Chamber moved 48000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 45579 Steps before finishing.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 50 Steps clockwise.
+Preparation Chamber moved 50 Steps clockwise.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps in.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Preparation Chamber moved 48000 Steps counterclockwise.
+Preparation Chamber moved 48000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 39303 Steps before finishing.
+Preparation Chamber moved 48000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 27379 Steps before finishing.
+Preparation Chamber moved 48000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 47707 Steps before finishing.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 50 Steps counterclockwise.
+Preparation Chamber moved 50 Steps counterclockwise.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Preparation Chamber moved 500 Steps clockwise.
+Preparation Chamber moved 500 Steps counterclockwise.
+Preparation Chamber moved 500 Steps counterclockwise.
+Preparation Chamber moved 500 Steps counterclockwise.
+Preparation Chamber moved 500 Steps counterclockwise.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Preparation Chamber moved 48000 Steps clockwise.
+Preparation Chamber moved 48000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 12527 Steps before finishing.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Manipulator moved 500 Steps in.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Preparation Chamber moved 48000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 12851 Steps before finishing.
+Preparation Chamber moved 100 Steps counterclockwise.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 50 Steps right.
+Manipulator moved 500 Steps down.
+Manipulator moved 500 Steps down.
+Manipulator moved 500 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 60000 Steps in.
+!!! Line above is NOT correct!!!
+Movement was interupted 20 Steps before finishing.
+Manipulator moved 1000 Steps in.
+Manipulator moved 500 Steps down.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps up.
+Manipulator moved 500 Steps down.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 50 Steps out.
+Manipulator moved 50 Steps out.
+Manipulator moved 50 Steps out.
+Manipulator moved 50 Steps down.
+Manipulator moved 50 Steps down.
+Manipulator moved 500 Steps down.
+Manipulator moved 500 Steps up.
+Manipulator moved 500 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 60000 Steps out.
+Manipulator moved 1000 Steps up.
+Manipulator moved 1000 Steps up.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Preparation Chamber moved 48000 Steps clockwise.
+Preparation Chamber moved 10000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 320 Steps before finishing.
+Manipulator moved 1000 Steps in.
+Manipulator moved 500 Steps in.
+Preparation Chamber moved 60000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 3256 Steps before finishing.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 500 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Manipulator moved 5000 Steps out.
+Preparation Chamber moved 10000 Steps clockwise.
+Preparation Chamber moved 10000 Steps clockwise.
+Preparation Chamber moved 10000 Steps clockwise.
+Preparation Chamber moved 10000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 4815 Steps before finishing.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps left.
+Manipulator moved 500 Steps left.
+Preparation Chamber moved 48000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 26815 Steps before finishing.
+Manipulator moved 10000 Steps in.
+!!! Line above is NOT correct!!!
+Movement was interupted 4786 Steps before finishing.
+Preparation Chamber moved 10000 Steps counterclockwise.
+Preparation Chamber moved 10000 Steps counterclockwise.
+Preparation Chamber moved 1000 Steps counterclockwise.
+Preparation Chamber moved 500 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Manipulator moved 500 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 5000 Steps out.
+!!! Line above is NOT correct!!!
+Movement was interupted 1143 Steps before finishing.
+Manipulator moved 500 Steps in.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 1000 Steps up.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Preparation Chamber moved 60000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 1423 Steps before finishing.
+Preparation Chamber moved 500 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 0 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Preparation Chamber moved 60000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 34396 Steps before finishing.
+Preparation Chamber moved 50 Steps clockwise.
+Preparation Chamber moved 50 Steps clockwise.
+Preparation Chamber moved 50 Steps clockwise.
+Manipulator moved 60000 Steps in.
+!!! Line above is NOT correct!!!
+Movement was interupted 3785 Steps before finishing.
+Manipulator moved 5000 Steps in.
+!!! Line above is NOT correct!!!
+Movement was interupted 893 Steps before finishing.
+Manipulator moved 500 Steps down.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+!!! Line above is NOT correct!!!
+Movement was interupted 337 Steps before finishing.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps up.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 500 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 60000 Steps out.
+Preparation Chamber moved 60000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 34454 Steps before finishing.
+Preparation Chamber moved 60000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 56970 Steps before finishing.
+Manipulator moved 1000 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Preparation Chamber moved 48000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 25651 Steps before finishing.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 1000 Steps down.
+Manipulator moved 60000 Steps in.
+!!! Line above is NOT correct!!!
+Movement was interupted 1183 Steps before finishing.
+Manipulator moved 500 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps up.
+Manipulator moved 500 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 60000 Steps out.
+Manipulator moved 1000 Steps up.
+Manipulator moved 1000 Steps up.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Preparation Chamber moved 10000 Steps clockwise.
+Preparation Chamber moved 10000 Steps clockwise.
+Preparation Chamber moved 10000 Steps clockwise.
+Preparation Chamber moved 10000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 6652 Steps before finishing.
+Preparation Chamber moved 10000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 6081 Steps before finishing.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Preparation Chamber moved 1000 Steps clockwise.
+Preparation Chamber moved 1000 Steps clockwise.
+Preparation Chamber moved 1000 Steps clockwise.
+Manipulator moved 500 Steps up.
+Preparation Chamber moved 1000 Steps clockwise.
+Preparation Chamber moved 1000 Steps clockwise.
+Preparation Chamber moved 1000 Steps clockwise.
+Preparation Chamber moved 1000 Steps clockwise.
+Preparation Chamber moved 1000 Steps clockwise.
+Preparation Chamber moved 1000 Steps clockwise.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Preparation Chamber moved 60000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 12959 Steps before finishing.
+Preparation Chamber moved 500 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Manipulator moved 1000 Steps down.
+Manipulator moved 1000 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 60000 Steps in.
+!!! Line above is NOT correct!!!
+Movement was interupted 1098 Steps before finishing.
+Manipulator moved 100 Steps down.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps up.
+Manipulator moved 500 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 60000 Steps out.
+Preparation Chamber moved 60000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 16072 Steps before finishing.
+Manipulator moved 500 Steps up.
+Manipulator moved 500 Steps up.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps left.
+Manipulator moved 500 Steps left.
+Manipulator moved 500 Steps left.
+Manipulator moved 500 Steps left.
+Manipulator moved 500 Steps up.
+Manipulator moved 500 Steps up.
+Manipulator moved 500 Steps up.
+Manipulator moved 500 Steps down.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Preparation Chamber moved 10000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 8400 Steps before finishing.
+Preparation Chamber moved 1000 Steps clockwise.
+Preparation Chamber moved 1000 Steps clockwise.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps in.
+Manipulator moved 5000 Steps out.
+Manipulator moved 50 Steps up.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps right.
+Manipulator moved 500 Steps right.
+Manipulator moved 500 Steps right.
+Manipulator moved 500 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Preparation Chamber moved 48000 Steps counterclockwise.
+Manipulator moved 1000 Steps down.
+Manipulator moved 500 Steps down.
+Manipulator moved 60000 Steps in.
+!!! Line above is NOT correct!!!
+Movement was interupted 1189 Steps before finishing.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 50 Steps right.
+Manipulator moved 50 Steps right.
+Manipulator moved 50 Steps up.
+Manipulator moved 500 Steps down.
+Manipulator moved 500 Steps up.
+Manipulator moved 25 Steps out.
+Manipulator moved 25 Steps in.
+Manipulator moved 25 Steps in.
+Manipulator moved 500 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 60000 Steps out.
+Manipulator moved 1000 Steps up.
+Manipulator moved 1000 Steps up.
+Preparation Chamber moved 60000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 3488 Steps before finishing.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Preparation Chamber moved 48000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 26433 Steps before finishing.
+Preparation Chamber moved 500 Steps counterclockwise.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 500 Steps in.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps in.
+Manipulator moved 50 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 500 Steps in.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Preparation Chamber moved 1000 Steps clockwise.
+Preparation Chamber moved 1000 Steps clockwise.
+Preparation Chamber moved 48000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 12066 Steps before finishing.
+Preparation Chamber moved 500 Steps counterclockwise.
+Preparation Chamber moved 50 Steps counterclockwise.
+Preparation Chamber moved 50 Steps counterclockwise.
+Preparation Chamber moved 50 Steps counterclockwise.
+Manipulator moved 1000 Steps down.
+Manipulator moved 60000 Steps in.
+!!! Line above is NOT correct!!!
+Movement was interupted 536 Steps before finishing.
+Manipulator moved 500 Steps down.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps down.
+Manipulator moved 50 Steps down.
+Manipulator moved 50 Steps down.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps left.
+Manipulator moved 50 Steps left.
+Manipulator moved 50 Steps left.
+Manipulator moved 50 Steps right.
+Manipulator moved 50 Steps right.
+Manipulator moved 50 Steps right.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps out.
+Manipulator moved 50 Steps down.
+Manipulator moved 50 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps down.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps right.
+Manipulator moved 50 Steps left.
+Manipulator moved 50 Steps left.
+Manipulator moved 50 Steps left.
+Manipulator moved 50 Steps left.
+Manipulator moved 0 Steps left.
+Manipulator moved 50 Steps left.
+Manipulator moved 50 Steps right.
+Manipulator moved 50 Steps right.
+Manipulator moved 50 Steps right.
+Manipulator moved 50 Steps right.
+Manipulator moved 50 Steps right.
+Manipulator moved 50 Steps right.
+Manipulator moved 50 Steps down.
+Manipulator moved 50 Steps down.
+Manipulator moved 50 Steps down.
+Manipulator moved 50 Steps left.
+Manipulator moved 50 Steps right.
+Manipulator moved 50 Steps left.
+Manipulator moved 50 Steps left.
+Manipulator moved 50 Steps left.
+Manipulator moved 50 Steps out.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps out.
+Manipulator moved 500 Steps down.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps out.
+Manipulator moved 50 Steps right.
+Manipulator moved 50 Steps right.
+Manipulator moved 50 Steps down.
+Manipulator moved 50 Steps right.
+Manipulator moved 50 Steps down.
+Manipulator moved 500 Steps down.
+Manipulator moved 60000 Steps out.
+Manipulator moved 1000 Steps up.
+Manipulator moved 500 Steps up.
+Preparation Chamber moved 48000 Steps clockwise.
+Preparation Chamber moved 48000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 39746 Steps before finishing.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 50 Steps clockwise.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Preparation Chamber moved 60000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 4023 Steps before finishing.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 500 Steps counterclockwise.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 60000 Steps in.
+!!! Line above is NOT correct!!!
+Movement was interupted 2135 Steps before finishing.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 500 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 50 Steps right.
+Manipulator moved 50 Steps right.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps down.
+Manipulator moved 1000 Steps in.
+Manipulator moved 500 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 50 Steps up.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps out.
+Manipulator moved 500 Steps down.
+Manipulator moved 500 Steps up.
+Manipulator moved 500 Steps down.
+Manipulator moved 500 Steps up.
+Manipulator moved 500 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 60000 Steps out.
+Preparation Chamber moved 60000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 41446 Steps before finishing.
+Preparation Chamber moved 60000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 53978 Steps before finishing.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 50 Steps counterclockwise.
+Preparation Chamber moved 50 Steps counterclockwise.
+Preparation Chamber moved 50 Steps counterclockwise.
+Manipulator moved 50 Steps left.
+Manipulator moved 50 Steps left.
+Manipulator moved 50 Steps left.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Manipulator moved 1000 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 500 Steps up.
+Manipulator moved 500 Steps up.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Preparation Chamber moved 48000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 22961 Steps before finishing.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 50 Steps clockwise.
+Manipulator moved 60000 Steps in.
+!!! Line above is NOT correct!!!
+Movement was interupted 251 Steps before finishing.
+Manipulator moved 500 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+!!! Line above is NOT correct!!!
+Movement was interupted 6 Steps before finishing.
+Manipulator moved 100 Steps up.
+Manipulator moved 500 Steps up.
+Manipulator moved 500 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps out.
+Manipulator moved 50 Steps down.
+Manipulator moved 25 Steps out.
+Manipulator moved 500 Steps down.
+Manipulator moved 60000 Steps out.
+Manipulator moved 1000 Steps up.
+Manipulator moved 500 Steps up.
+Preparation Chamber moved 60000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 3971 Steps before finishing.
+Manipulator moved 1000 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Preparation Chamber moved 60000 Steps counterclockwise.
+Preparation Chamber moved 60000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 38184 Steps before finishing.
+Manipulator moved 50 Steps left.
+Manipulator moved 50 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 50 Steps left.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps up.
+Manipulator moved 500 Steps down.
+Manipulator moved 500 Steps down.
+Manipulator moved 500 Steps down.
+Manipulator moved 500 Steps down.
+Manipulator moved 500 Steps down.
+Preparation Chamber moved 60000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 34226 Steps before finishing.
+Manipulator moved 500 Steps up.
+Manipulator moved 500 Steps left.
+Manipulator moved 500 Steps right.
+Manipulator moved 60000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps out.
+Manipulator moved 50 Steps left.
+Manipulator moved 50 Steps right.
+Manipulator moved 500 Steps down.
+Manipulator moved 60000 Steps out.
+Preparation Chamber moved 60000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 59703 Steps before finishing.
+Preparation Chamber moved 60000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 25347 Steps before finishing.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps out.
+Preparation Chamber moved 500 Steps clockwise.
+Preparation Chamber moved 500 Steps counterclockwise.
+Preparation Chamber moved 500 Steps counterclockwise.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Preparation Chamber moved 48000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 38283 Steps before finishing.
+Preparation Chamber moved 48000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 28985 Steps before finishing.
+Preparation Chamber moved 48000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 38200 Steps before finishing.
+Manipulator moved 1000 Steps up.
+Manipulator moved 1000 Steps up.
+Manipulator moved 1000 Steps up.
+Manipulator moved 1000 Steps down.
+Manipulator moved 100 Steps up.
+Preparation Chamber moved 48000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 45050 Steps before finishing.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Preparation Chamber moved 1000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 405 Steps before finishing.
+Preparation Chamber moved 1000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 70 Steps before finishing.
+Preparation Chamber moved 1000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 107 Steps before finishing.
+Manipulator moved 5000 Steps out.
+Manipulator moved 5000 Steps in.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 500 Steps up.
+Manipulator moved 500 Steps up.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps up.
+Manipulator moved 1000 Steps up.
+Manipulator moved 1000 Steps down.
+Manipulator moved 500 Steps left.
+Manipulator moved 500 Steps left.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 50 Steps left.
+Preparation Chamber moved 48000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 25342 Steps before finishing.
+Manipulator moved 500 Steps out.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Preparation Chamber moved 48000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 9638 Steps before finishing.
+Preparation Chamber moved 48000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 28413 Steps before finishing.
+Preparation Chamber moved 48000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 47707 Steps before finishing.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 50 Steps clockwise.
+Preparation Chamber moved 50 Steps clockwise.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 50 Steps right.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 500 Steps down.
+Manipulator moved 500 Steps down.
+Manipulator moved 500 Steps down.
+Manipulator moved 50 Steps down.
+Manipulator moved 50 Steps down.
+Manipulator moved 50 Steps down.
+Manipulator moved 50 Steps down.
+Manipulator moved 50 Steps down.
+Preparation Chamber moved 60000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 35173 Steps before finishing.
+Preparation Chamber moved 50 Steps clockwise.
+Preparation Chamber moved 50 Steps clockwise.
+Preparation Chamber moved 50 Steps clockwise.
+Preparation Chamber moved 50 Steps clockwise.
+Preparation Chamber moved 50 Steps clockwise.
+Manipulator moved 60000 Steps in.
+!!! Line above is NOT correct!!!
+Movement was interupted 9584 Steps before finishing.
+Manipulator moved 10000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps out.
+Manipulator moved 20 Steps up.
+Manipulator moved 50 Steps in.
+Manipulator moved 10 Steps up.
+Manipulator moved 10 Steps up.
+Manipulator moved 10 Steps down.
+Manipulator moved 500 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 1000 Steps out.
+Manipulator moved 60000 Steps out.
+Manipulator moved 1000 Steps up.
+Manipulator moved 1000 Steps up.
+Preparation Chamber moved 60000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 5514 Steps before finishing.
+Preparation Chamber moved 5000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 3508 Steps before finishing.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps down.
+Manipulator moved 500 Steps in.
+Manipulator moved 5000 Steps out.
+Manipulator moved 5000 Steps in.
+Manipulator moved 5000 Steps out.
+Preparation Chamber moved 5000 Steps counterclockwise.
+Manipulator moved 1000 Steps up.
+Preparation Chamber moved 5000 Steps counterclockwise.
+Preparation Chamber moved 5000 Steps counterclockwise.
+Preparation Chamber moved 5000 Steps counterclockwise.
+Preparation Chamber moved 5000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 2985 Steps before finishing.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps out.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 500 Steps clockwise.
+Preparation Chamber moved 500 Steps clockwise.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Preparation Chamber moved 500 Steps clockwise.
+Preparation Chamber moved 500 Steps clockwise.
+Preparation Chamber moved 500 Steps clockwise.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps up.
+Manipulator moved 500 Steps right.
+Manipulator moved 500 Steps left.
+Preparation Chamber moved 500 Steps counterclockwise.
+Preparation Chamber moved 500 Steps counterclockwise.
+Preparation Chamber moved 500 Steps counterclockwise.
+Preparation Chamber moved 500 Steps clockwise.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps in.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Preparation Chamber moved 48000 Steps counterclockwise.
+Preparation Chamber moved 48000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 34561 Steps before finishing.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 500 Steps counterclockwise.
+Preparation Chamber moved 500 Steps clockwise.
+Preparation Chamber moved 500 Steps clockwise.
+Preparation Chamber moved 500 Steps clockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 48000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 22779 Steps before finishing.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 500 Steps counterclockwise.
+Manipulator moved 1000 Steps down.
+Manipulator moved 1000 Steps down.
+Manipulator moved 500 Steps down.
+Manipulator moved 60000 Steps in.
+Manipulator moved 500 Steps down.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps up.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps down.
+Manipulator moved 50 Steps left.
+Manipulator moved 50 Steps right.
+Manipulator moved 50 Steps right.
+Manipulator moved 20 Steps out.
+Manipulator moved 20 Steps out.
+Manipulator moved 20 Steps out.
+Manipulator moved 500 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 60000 Steps out.
+Manipulator moved 1000 Steps up.
+Manipulator moved 1000 Steps up.
+Preparation Chamber moved 60000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 2678 Steps before finishing.
+Manipulator moved 1000 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps down.
+Manipulator moved 5000 Steps out.
+Manipulator moved 5000 Steps in.
+Preparation Chamber moved 60000 Steps counterclockwise.
+Preparation Chamber moved 60000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 37916 Steps before finishing.
+Preparation Chamber moved 60000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 59705 Steps before finishing.
+Manipulator moved 5000 Steps out.
+!!! Line above is NOT correct!!!
+Movement was interupted 1065 Steps before finishing.
+Manipulator moved 500 Steps out.
+Preparation Chamber moved 60000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 34301 Steps before finishing.
+Manipulator moved 60000 Steps in.
+!!! Line above is NOT correct!!!
+Movement was interupted 2150 Steps before finishing.
+Manipulator moved 5000 Steps in.
+!!! Line above is NOT correct!!!
+Movement was interupted 2067 Steps before finishing.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps right.
+Manipulator moved 50 Steps right.
+Manipulator moved 50 Steps right.
+Manipulator moved 50 Steps in.
+Manipulator moved 500 Steps down.
+Manipulator moved 60000 Steps out.
+Preparation Chamber moved 60000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 34719 Steps before finishing.
+Preparation Chamber moved 60000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 59692 Steps before finishing.
+Preparation Chamber moved 60000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 59704 Steps before finishing.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Preparation Chamber moved 60000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 34583 Steps before finishing.
+Preparation Chamber moved 60000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 59566 Steps before finishing.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 60000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 500 Steps up.
+Manipulator moved 500 Steps down.
+Manipulator moved 60000 Steps out.
+Preparation Chamber moved 60000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 34679 Steps before finishing.
+Preparation Chamber moved 60000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 59705 Steps before finishing.
+Preparation Chamber moved 60000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 59706 Steps before finishing.
+Manipulator moved 5000 Steps out.
+!!! Line above is NOT correct!!!
+Movement was interupted 4706 Steps before finishing.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Preparation Chamber moved 60000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 30843 Steps before finishing.
+Preparation Chamber moved 60000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 59705 Steps before finishing.
+Preparation Chamber moved 60000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 55863 Steps before finishing.
+Preparation Chamber moved 60000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 59705 Steps before finishing.
+Preparation Chamber moved 60000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 59555 Steps before finishing.
+Preparation Chamber moved 60000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 59634 Steps before finishing.
+Manipulator moved 60000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 500 Steps up.
+Manipulator moved 500 Steps down.
+Manipulator moved 500 Steps up.
+Manipulator moved 500 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 1000 Steps out.
+Manipulator moved 60000 Steps out.
+Preparation Chamber moved 60000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 59706 Steps before finishing.
+Preparation Chamber moved 60000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 59707 Steps before finishing.
+Preparation Chamber moved 60000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 59707 Steps before finishing.
+Manipulator moved 1000 Steps in.
+!!! Line above is NOT correct!!!
+Movement was interupted 706 Steps before finishing.
+Manipulator moved 1000 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Preparation Chamber moved 60000 Steps counterclockwise.
+Preparation Chamber moved 60000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 37725 Steps before finishing.
+Preparation Chamber moved 60000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 59679 Steps before finishing.
+Manipulator moved 1000 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps out.
+Preparation Chamber moved 48000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 33638 Steps before finishing.
+Preparation Chamber moved 48000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 36526 Steps before finishing.
+Manipulator moved 60000 Steps in.
+!!! Line above is NOT correct!!!
+Movement was interupted 66 Steps before finishing.
+Manipulator moved 100 Steps down.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 50 Steps right.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps up.
+Manipulator moved 500 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 60000 Steps out.
+Preparation Chamber moved 48000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 22133 Steps before finishing.
+Preparation Chamber moved 500 Steps counterclockwise.
+Preparation Chamber moved 500 Steps clockwise.
+Preparation Chamber moved 500 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 50 Steps clockwise.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Preparation Chamber moved 48000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 22856 Steps before finishing.
+Preparation Chamber moved 50 Steps clockwise.
+Manipulator moved 60000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 1000 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 50 Steps in.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps right.
+Manipulator moved 20 Steps in.
+Manipulator moved 20 Steps out.
+Manipulator moved 20 Steps down.
+Manipulator moved 20 Steps down.
+Manipulator moved 20 Steps out.
+Manipulator moved 50 Steps down.
+Manipulator moved 500 Steps down.
+Manipulator moved 500 Steps up.
+Manipulator moved 500 Steps down.
+Manipulator moved 500 Steps up.
+Manipulator moved 500 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 60000 Steps out.
+Preparation Chamber moved 60000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 33169 Steps before finishing.
+Manipulator moved 1000 Steps up.
+Manipulator moved 1000 Steps up.
+Preparation Chamber moved 60000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 56993 Steps before finishing.
+Manipulator moved 60000 Steps up.
+!!! Line above is NOT correct!!!
+Movement was interupted 59428 Steps before finishing.
+Preparation Chamber moved 60000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 47978 Steps before finishing.
+Preparation Chamber moved 60000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 50027 Steps before finishing.
+Preparation Chamber moved 60000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 7761 Steps before finishing.
+Preparation Chamber moved 60000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 59587 Steps before finishing.
+Manipulator moved 5000 Steps in.
+Manipulator moved 500 Steps up.
+Manipulator moved 500 Steps down.
+Manipulator moved 500 Steps in.
+!!! Line above is NOT correct!!!
+Movement was interupted 500 Steps before finishing.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps in.
+!!! Line above is NOT correct!!!
+Movement was interupted 233 Steps before finishing.
+Manipulator moved 500 Steps out.
+!!! Line above is NOT correct!!!
+Movement was interupted 500 Steps before finishing.
+Manipulator moved 500 Steps out.
+!!! Line above is NOT correct!!!
+Movement was interupted 500 Steps before finishing.
+Manipulator moved 5000 Steps out.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+!!! Line above is NOT correct!!!
+Movement was interupted 319 Steps before finishing.
+Manipulator moved 500 Steps out.
+!!! Line above is NOT correct!!!
+Movement was interupted 500 Steps before finishing.
+Manipulator moved 500 Steps out.
+!!! Line above is NOT correct!!!
+Movement was interupted 500 Steps before finishing.
+Manipulator moved 500 Steps up.
+!!! Line above is NOT correct!!!
+Movement was interupted 500 Steps before finishing.
+Manipulator moved 500 Steps down.
+!!! Line above is NOT correct!!!
+Movement was interupted 500 Steps before finishing.
+Manipulator moved 500 Steps left.
+!!! Line above is NOT correct!!!
+Movement was interupted 500 Steps before finishing.
+Manipulator moved 500 Steps right.
+!!! Line above is NOT correct!!!
+Movement was interupted 500 Steps before finishing.
+Preparation Chamber moved 500 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 500 Steps before finishing.
+Preparation Chamber moved 500 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 500 Steps before finishing.
+Experimental Chamber moved 500 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 500 Steps before finishing.
+Experimental Chamber moved 500 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 500 Steps before finishing.
+Manipulator moved 500 Steps in.
+!!! Line above is NOT correct!!!
+Movement was interupted 500 Steps before finishing.
+Manipulator moved 500 Steps in.
+!!! Line above is NOT correct!!!
+Movement was interupted 500 Steps before finishing.
+Manipulator moved 500 Steps in.
+!!! Line above is NOT correct!!!
+Movement was interupted 500 Steps before finishing.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 0 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+!!! Line above is NOT correct!!!
+Movement was interupted 208 Steps before finishing.
+Manipulator moved 1000 Steps in.
+!!! Line above is NOT correct!!!
+Movement was interupted 889 Steps before finishing.
+Manipulator moved 5000 Steps out.
+Manipulator moved 1000 Steps up.
+Manipulator moved 500 Steps up.
+Preparation Chamber moved 60000 Steps clockwise.
+Preparation Chamber moved 10000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 2419 Steps before finishing.
+Preparation Chamber moved 10000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 6769 Steps before finishing.
+Manipulator moved 5000 Steps out.
+Preparation Chamber moved 5000 Steps counterclockwise.
+Preparation Chamber moved 10000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 594 Steps before finishing.
+Manipulator moved 10000 Steps in.
+!!! Line above is NOT correct!!!
+Movement was interupted 4653 Steps before finishing.
+Manipulator moved 50 Steps down.
+Manipulator moved 50 Steps down.
+Manipulator moved 50 Steps down.
+Manipulator moved 50 Steps down.
+Manipulator moved 50 Steps down.
+Manipulator moved 50 Steps down.
+Manipulator moved 50 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 500 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Preparation Chamber moved 10000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 6233 Steps before finishing.
+Manipulator moved 1000 Steps out.
+Preparation Chamber moved 5000 Steps clockwise.
+Preparation Chamber moved 5000 Steps clockwise.
+Preparation Chamber moved 500 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Manipulator moved 1000 Steps out.
+Manipulator moved 5000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps down.
+Manipulator moved 500 Steps up.
+Manipulator moved 1000 Steps up.
+Preparation Chamber moved 5000 Steps counterclockwise.
+Preparation Chamber moved 5000 Steps counterclockwise.
+Preparation Chamber moved 5000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 412 Steps before finishing.
+Manipulator moved 5000 Steps in.
+!!! Line above is NOT correct!!!
+Movement was interupted 107 Steps before finishing.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 500 Steps right.
+Manipulator moved 500 Steps right.
+Manipulator moved 500 Steps right.
+Manipulator moved 500 Steps right.
+Manipulator moved 5000 Steps out.
+Preparation Chamber moved 10000 Steps clockwise.
+Preparation Chamber moved 5000 Steps clockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 500 Steps counterclockwise.
+Preparation Chamber moved 500 Steps counterclockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Manipulator moved 500 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps left.
+Manipulator moved 500 Steps left.
+Manipulator moved 100 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Preparation Chamber moved 10000 Steps counterclockwise.
+Preparation Chamber moved 5000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 696 Steps before finishing.
+Preparation Chamber moved 100 Steps counterclockwise.
+Manipulator moved 500 Steps right.
+Manipulator moved 500 Steps right.
+Manipulator moved 500 Steps in.
+Manipulator moved 5000 Steps in.
+!!! Line above is NOT correct!!!
+Movement was interupted 1331 Steps before finishing.
+Manipulator moved 5000 Steps in.
+!!! Line above is NOT correct!!!
+Movement was interupted 2593 Steps before finishing.
+Manipulator moved 100 Steps left.
+Preparation Chamber moved 5000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 2543 Steps before finishing.
+Preparation Chamber moved 5000 Steps counterclockwise.
+Preparation Chamber moved 5000 Steps counterclockwise.
+Preparation Chamber moved 60000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 11128 Steps before finishing.
+Manipulator moved 10000 Steps out.
+!!! Line above is NOT correct!!!
+Movement was interupted 4811 Steps before finishing.
+Manipulator moved 1000 Steps in.
+Preparation Chamber moved 48000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 25081 Steps before finishing.
+Preparation Chamber moved 48000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 35549 Steps before finishing.
+Preparation Chamber moved 48000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 47256 Steps before finishing.
+Preparation Chamber moved 1000 Steps counterclockwise.
+Preparation Chamber moved 1000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 335 Steps before finishing.
+Manipulator moved 1000 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps up.
+Manipulator moved 500 Steps up.
+Preparation Chamber moved 500 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 500 Steps before finishing.
+Preparation Chamber moved 500 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 500 Steps before finishing.
+Preparation Chamber moved 500 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 500 Steps before finishing.
+Preparation Chamber moved 500 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 500 Steps before finishing.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps in.
+Preparation Chamber moved 500 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 500 Steps before finishing.
+Preparation Chamber moved 5000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 5000 Steps before finishing.
+Preparation Chamber moved 5000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 5000 Steps before finishing.
+Preparation Chamber moved 500 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 500 Steps before finishing.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps up.
+Manipulator moved 500 Steps up.
+Manipulator moved 500 Steps down.
+Manipulator moved 500 Steps right.
+Manipulator moved 500 Steps left.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps out.
+Preparation Chamber moved 5000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 5000 Steps before finishing.
+Preparation Chamber moved 5000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 5000 Steps before finishing.
+Manipulator moved 50 Steps in.
+Preparation Chamber moved 50 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 50 Steps before finishing.
+Preparation Chamber moved 50 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 50 Steps before finishing.
+Preparation Chamber moved 500 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 500 Steps before finishing.
+Preparation Chamber moved 500 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 500 Steps before finishing.
+Preparation Chamber moved 500 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 500 Steps before finishing.
+Preparation Chamber moved 100 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 100 Steps before finishing.
+Preparation Chamber moved 100 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 100 Steps before finishing.
+Preparation Chamber moved 100 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 100 Steps before finishing.
+Preparation Chamber moved 100 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 100 Steps before finishing.
+Preparation Chamber moved 100 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 100 Steps before finishing.
+Preparation Chamber moved 500 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 500 Steps before finishing.
+Preparation Chamber moved 500 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 500 Steps before finishing.
+Preparation Chamber moved 500 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 500 Steps before finishing.
+Preparation Chamber moved 500 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 500 Steps before finishing.
+Experimental Chamber moved 500 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 500 Steps before finishing.
+Experimental Chamber moved 500 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 500 Steps before finishing.
+Experimental Chamber moved 500 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 500 Steps before finishing.
+Experimental Chamber moved 500 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 500 Steps before finishing.
+Experimental Chamber moved 500 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 500 Steps before finishing.
+Preparation Chamber moved 500 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 500 Steps before finishing.
+Preparation Chamber moved 500 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 500 Steps before finishing.
+Manipulator moved 500 Steps left.
+Manipulator moved 500 Steps right.
+Manipulator moved 500 Steps up.
+Manipulator moved 500 Steps down.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps out.
+Preparation Chamber moved 500 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 500 Steps before finishing.
+Preparation Chamber moved 500 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 500 Steps before finishing.
+Preparation Chamber moved 500 Steps clockwise.
+Preparation Chamber moved 500 Steps clockwise.
+Preparation Chamber moved 500 Steps counterclockwise.
+Preparation Chamber moved 10000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 8990 Steps before finishing.
+Preparation Chamber moved 10000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 3818 Steps before finishing.
+Manipulator moved 5000 Steps out.
+!!! Line above is NOT correct!!!
+Movement was interupted 840 Steps before finishing.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps out.
+Manipulator moved 1000 Steps right.
+Manipulator moved 5000 Steps right.
+!!! Line above is NOT correct!!!
+Movement was interupted 3539 Steps before finishing.
+Manipulator moved 500 Steps left.
+Manipulator moved 500 Steps left.
+Manipulator moved 500 Steps left.
+Manipulator moved 500 Steps left.
+Manipulator moved 500 Steps left.
+Preparation Chamber moved 1000 Steps counterclockwise.
+Preparation Chamber moved 5000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 3681 Steps before finishing.
+Manipulator moved 500 Steps left.
+Manipulator moved 500 Steps left.
+Manipulator moved 500 Steps left.
+Preparation Chamber moved 500 Steps counterclockwise.
+Manipulator moved 500 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps out.
+Manipulator moved 50 Steps out.
+Manipulator moved 50 Steps out.
+Manipulator moved 50 Steps out.
+Manipulator moved 50 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 10000 Steps out.
+!!! Line above is NOT correct!!!
+Movement was interupted 7365 Steps before finishing.
+Motor Number 3 moved 400 Steps to the left.
+!!! Line above is NOT correct!!!
+Motor Number 3 was interrupted 344 Steps before finishing move to the left.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps out.
+Motor Number 3 moved 400 Steps to the left.
+!!! Line above is NOT correct!!!
+Motor Number 3 was interrupted 174 Steps before finishing move to the left.
+Manipulator moved 500 Steps in.
+Preparation Chamber moved 500 Steps counterclockwise.
+Preparation Chamber moved 500 Steps counterclockwise.
+Preparation Chamber moved 500 Steps counterclockwise.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 500 Steps up.
+Manipulator moved 500 Steps up.
+Manipulator moved 100 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps left.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps out.
+Preparation Chamber moved 500 Steps clockwise.
+Preparation Chamber moved 500 Steps clockwise.
+Preparation Chamber moved 500 Steps clockwise.
+Preparation Chamber moved 500 Steps clockwise.
+Preparation Chamber moved 500 Steps clockwise.
+Preparation Chamber moved 500 Steps clockwise.
+Preparation Chamber moved 500 Steps counterclockwise.
+Preparation Chamber moved 500 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps down.
+Preparation Chamber moved 500 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 500 Steps before finishing.
+Preparation Chamber moved 500 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 500 Steps before finishing.
+Preparation Chamber moved 1000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 1000 Steps before finishing.
+Preparation Chamber moved 1000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 1000 Steps before finishing.
+Preparation Chamber moved 1000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 706 Steps before finishing.
+Preparation Chamber moved 10000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 1030 Steps before finishing.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Manipulator moved 500 Steps in.
+Manipulator moved 5000 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 50 Steps out.
+Manipulator moved 50 Steps out.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps down.
+Manipulator moved 500 Steps down.
+Manipulator moved 500 Steps down.
+Manipulator moved 500 Steps down.
+Manipulator moved 500 Steps down.
+Manipulator moved 500 Steps down.
+Manipulator moved 500 Steps down.
+Manipulator moved 500 Steps down.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps in.
+Preparation Chamber moved 500 Steps clockwise.
+Preparation Chamber moved 500 Steps clockwise.
+Preparation Chamber moved 500 Steps counterclockwise.
+Preparation Chamber moved 500 Steps counterclockwise.
+Preparation Chamber moved 500 Steps counterclockwise.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 500 Steps up.
+!!! Line above is NOT correct!!!
+Movement was interupted 206 Steps before finishing.
+Manipulator moved 1000 Steps up.
+Manipulator moved 1000 Steps up.
+Preparation Chamber moved 10000 Steps counterclockwise.
+Preparation Chamber moved 10000 Steps counterclockwise.
+Preparation Chamber moved 10000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 7871 Steps before finishing.
+Preparation Chamber moved 10000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 9164 Steps before finishing.
+Manipulator moved 10000 Steps out.
+!!! Line above is NOT correct!!!
+Movement was interupted 5713 Steps before finishing.
+Manipulator moved 100 Steps out.
+Manipulator moved 500 Steps down.
+Manipulator moved 500 Steps down.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 500 Steps left.
+Manipulator moved 500 Steps left.
+Manipulator moved 500 Steps right.
+Manipulator moved 500 Steps right.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps left.
+Manipulator moved 500 Steps left.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps left.
+Manipulator moved 500 Steps left.
+Manipulator moved 500 Steps left.
+Manipulator moved 500 Steps left.
+Manipulator moved 500 Steps right.
+Manipulator moved 500 Steps right.
+Manipulator moved 500 Steps right.
+Manipulator moved 500 Steps right.
+Manipulator moved 500 Steps right.
+Manipulator moved 500 Steps right.
+Manipulator moved 500 Steps right.
+Manipulator moved 500 Steps right.
+Manipulator moved 500 Steps left.
+Manipulator moved 500 Steps left.
+Manipulator moved 500 Steps left.
+Manipulator moved 500 Steps left.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 500 Steps clockwise.
+Preparation Chamber moved 500 Steps clockwise.
+Preparation Chamber moved 500 Steps counterclockwise.
+Preparation Chamber moved 500 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 10000 Steps clockwise.
+Preparation Chamber moved 10000 Steps clockwise.
+Preparation Chamber moved 5000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 3350 Steps before finishing.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 500 Steps right.
+Manipulator moved 500 Steps in.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 100 Steps in.
+Manipulator moved 1000 Steps down.
+Manipulator moved 1000 Steps up.
+Manipulator moved 5000 Steps out.
+Manipulator moved 500 Steps left.
+Preparation Chamber moved 10000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 1771 Steps before finishing.
+Preparation Chamber moved 10000 Steps counterclockwise.
+Preparation Chamber moved 10000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 6221 Steps before finishing.
+Preparation Chamber moved 500 Steps clockwise.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 500 Steps clockwise.
+Preparation Chamber moved 500 Steps counterclockwise.
+Preparation Chamber moved 500 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps right.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Manipulator moved 50 Steps out.
+Manipulator moved 50 Steps out.
+Manipulator moved 50 Steps out.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps out.
+Manipulator moved 50 Steps out.
+Manipulator moved 50 Steps out.
+Manipulator moved 50 Steps out.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps down.
+Manipulator moved 50 Steps down.
+Preparation Chamber moved 50 Steps clockwise.
+Preparation Chamber moved 50 Steps clockwise.
+Preparation Chamber moved 50 Steps clockwise.
+Preparation Chamber moved 500 Steps clockwise.
+Preparation Chamber moved 500 Steps counterclockwise.
+Preparation Chamber moved 48000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 12831 Steps before finishing.
+Preparation Chamber moved 48000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 12337 Steps before finishing.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps out.
+Manipulator moved 50 Steps out.
+Manipulator moved 50 Steps out.
+Manipulator moved 50 Steps out.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps left.
+Manipulator moved 50 Steps right.
+Manipulator moved 50 Steps right.
+Manipulator moved 50 Steps out.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps in.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps down.
+Preparation Chamber moved 48000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 12315 Steps before finishing.
+Preparation Chamber moved 500 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 24 Steps before finishing.
+Preparation Chamber moved 500 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 119 Steps before finishing.
+Preparation Chamber moved 500 Steps clockwise.
+Preparation Chamber moved 500 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 103 Steps before finishing.
+Preparation Chamber moved 500 Steps counterclockwise.
+Preparation Chamber moved 500 Steps counterclockwise.
+Preparation Chamber moved 500 Steps counterclockwise.
+Preparation Chamber moved 500 Steps clockwise.
+Preparation Chamber moved 500 Steps clockwise.
+Preparation Chamber moved 500 Steps clockwise.
+Manipulator moved 48000 Steps in.
+!!! Line above is NOT correct!!!
+Movement was interupted 33472 Steps before finishing.
+Manipulator moved 48000 Steps in.
+!!! Line above is NOT correct!!!
+Movement was interupted 3018 Steps before finishing.
+Manipulator moved 500 Steps right.
+Manipulator moved 500 Steps right.
+Manipulator moved 500 Steps right.
+Manipulator moved 500 Steps right.
+Manipulator moved 500 Steps right.
+Manipulator moved 1000 Steps up.
+Manipulator moved 1000 Steps down.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps left.
+Manipulator moved 500 Steps left.
+Manipulator moved 500 Steps left.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps up.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps down.
+Manipulator moved 50 Steps down.
+Manipulator moved 50 Steps down.
+Manipulator moved 50 Steps down.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 10000 Steps out.
+!!! Line above is NOT correct!!!
+Movement was interupted 520 Steps before finishing.
+Manipulator moved 48000 Steps out.
+Preparation Chamber moved 48000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 24555 Steps before finishing.
+Manipulator moved 1000 Steps up.
+Preparation Chamber moved 10000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 8394 Steps before finishing.
+Preparation Chamber moved 10000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 2484 Steps before finishing.
+Manipulator moved 1000 Steps up.
+Manipulator moved 1000 Steps up.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Preparation Chamber moved 10000 Steps clockwise.
+Preparation Chamber moved 48000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 31237 Steps before finishing.
+Manipulator moved 500 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps down.
+Manipulator moved 500 Steps in.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps in.
+Preparation Chamber moved 48000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 30096 Steps before finishing.
+Preparation Chamber moved 48000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 43569 Steps before finishing.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 5000 Steps out.
+!!! Line above is NOT correct!!!
+Movement was interupted 3670 Steps before finishing.
+Manipulator moved 5000 Steps out.
+!!! Line above is NOT correct!!!
+Movement was interupted 2015 Steps before finishing.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps in.
+Manipulator moved 100 Steps out.
+Manipulator moved 50 Steps out.
+Manipulator moved 5000 Steps out.
+!!! Line above is NOT correct!!!
+Movement was interupted 124 Steps before finishing.
+Manipulator moved 5000 Steps in.
+Manipulator moved 5000 Steps out.
+!!! Line above is NOT correct!!!
+Movement was interupted 2983 Steps before finishing.
+Manipulator moved 5000 Steps in.
+!!! Line above is NOT correct!!!
+Movement was interupted 3445 Steps before finishing.
+Manipulator moved 5000 Steps out.
+!!! Line above is NOT correct!!!
+Movement was interupted 4705 Steps before finishing.
+Manipulator moved 5000 Steps in.
+!!! Line above is NOT correct!!!
+Movement was interupted 4706 Steps before finishing.
+Manipulator moved 500 Steps in.
+!!! Line above is NOT correct!!!
+Movement was interupted 207 Steps before finishing.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps out.
+Preparation Chamber moved 48000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 13322 Steps before finishing.
+Manipulator moved 48000 Steps in.
+Manipulator moved 10000 Steps in.
+Manipulator moved 5000 Steps in.
+!!! Line above is NOT correct!!!
+Movement was interupted 2128 Steps before finishing.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps right.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps up.
+Manipulator moved 50 Steps right.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps out.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps down.
+Manipulator moved 50 Steps down.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps right.
+Manipulator moved 50 Steps right.
+Manipulator moved 50 Steps right.
+Manipulator moved 50 Steps left.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps in.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 48000 Steps out.
+Manipulator moved 5000 Steps out.
+Manipulator moved 5000 Steps out.
+Manipulator moved 5000 Steps in.
+Manipulator moved 5000 Steps in.
+Manipulator moved 48000 Steps in.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps out.
+Manipulator moved 50 Steps out.
+Manipulator moved 50 Steps out.
+Manipulator moved 50 Steps down.
+Manipulator moved 50 Steps down.
+Manipulator moved 50 Steps out.
+Manipulator moved 50 Steps out.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps down.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps down.
+Manipulator moved 500 Steps down.
+Manipulator moved 10000 Steps out.
+Manipulator moved 10000 Steps in.
+Manipulator moved 500 Steps up.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps out.
+Manipulator moved 50 Steps out.
+Manipulator moved 50 Steps down.
+Manipulator moved 50 Steps out.
+Manipulator moved 50 Steps out.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps down.
+Manipulator moved 500 Steps down.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 48000 Steps out.
+Manipulator moved 10000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 60000 Steps in.
+Manipulator moved 500 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 500 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 60000 Steps out.
+Manipulator moved 1000 Steps up.
+Manipulator moved 500 Steps up.
+!!! Line above is NOT correct!!!
+Movement was interupted 48000 Steps before finishing.
+!!! Line above is NOT correct!!!
+Movement was interupted 48000 Steps before finishing.
+!!! Line above is NOT correct!!!
+Movement was interupted 48000 Steps before finishing.
+!!! Line above is NOT correct!!!
+Movement was interupted 48000 Steps before finishing.
+!!! Line above is NOT correct!!!
+Movement was interupted 500 Steps before finishing.
+!!! Line above is NOT correct!!!
+Movement was interupted 500 Steps before finishing.
+!!! Line above is NOT correct!!!
+Movement was interupted 100 Steps before finishing.
+!!! Line above is NOT correct!!!
+Movement was interupted 100 Steps before finishing.
+!!! Line above is NOT correct!!!
+Movement was interupted 100 Steps before finishing.
+!!! Line above is NOT correct!!!
+Movement was interupted 1000 Steps before finishing.
+!!! Line above is NOT correct!!!
+Movement was interupted 500 Steps before finishing.
+!!! Line above is NOT correct!!!
+Movement was interupted 500 Steps before finishing.
+!!! Line above is NOT correct!!!
+Movement was interupted 500 Steps before finishing.
+Manipulator moved 500 Steps in.
+Preparation Chamber moved 48000 Steps clockwise.
+Preparation Chamber moved 48000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 48000 Steps before finishing.
+Manipulator moved 48000 Steps in.
+!!! Line above is NOT correct!!!
+Movement was interupted 47235 Steps before finishing.
+Preparation Chamber moved 48000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 48000 Steps before finishing.
+Preparation Chamber moved 48000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 48000 Steps before finishing.
+!!! Line above is NOT correct!!!
+Movement was interupted 48000 Steps before finishing.
+Preparation Chamber moved 48000 Steps clockwise.
+Preparation Chamber moved 10000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 1402 Steps before finishing.
+Manipulator moved 500 Steps in.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Preparation Chamber moved 60000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 3750 Steps before finishing.
+Preparation Chamber moved 500 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 180 Steps before finishing.
+!!! Line above is NOT correct!!!
+Movement was interupted 48000 Steps before finishing.
+!!! Line above is NOT correct!!!
+Movement was interupted 48000 Steps before finishing.
+!!! Line above is NOT correct!!!
+Movement was interupted 48000 Steps before finishing.
+!!! Line above is NOT correct!!!
+Movement was interupted 48000 Steps before finishing.
+!!! Line above is NOT correct!!!
+Movement was interupted 48000 Steps before finishing.
+!!! Line above is NOT correct!!!
+Movement was interupted 100 Steps before finishing.
+!!! Line above is NOT correct!!!
+Movement was interupted 100 Steps before finishing.
+!!! Line above is NOT correct!!!
+Movement was interupted 100 Steps before finishing.
+!!! Line above is NOT correct!!!
+Movement was interupted 100 Steps before finishing.
+!!! Line above is NOT correct!!!
+Movement was interupted 100 Steps before finishing.
+!!! Line above is NOT correct!!!
+Movement was interupted 100 Steps before finishing.
+!!! Line above is NOT correct!!!
+Movement was interupted 100 Steps before finishing.
+!!! Line above is NOT correct!!!
+Movement was interupted 100 Steps before finishing.
+!!! Line above is NOT correct!!!
+Movement was interupted 48000 Steps before finishing.
+!!! Line above is NOT correct!!!
+Movement was interupted 48000 Steps before finishing.
+!!! Line above is NOT correct!!!
+Movement was interupted 50 Steps before finishing.
+!!! Line above is NOT correct!!!
+Movement was interupted 50 Steps before finishing.
+Manipulator moved 50 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 48000 Steps in.
+Manipulator moved 5000 Steps in.
+Manipulator moved 5000 Steps in.
+!!! Line above is NOT correct!!!
+Movement was interupted 3113 Steps before finishing.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 1000 Steps in.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps down.
+Manipulator moved 500 Steps down.
+Manipulator moved 500 Steps down.
+Manipulator moved 5000 Steps out.
+Manipulator moved 5000 Steps in.
+Manipulator moved 500 Steps up.
+Manipulator moved 500 Steps up.
+Manipulator moved 500 Steps down.
+Manipulator moved 500 Steps down.
+Manipulator moved 500 Steps up.
+Manipulator moved 60000 Steps out.
+!!! Line above is NOT correct!!!
+Movement was interupted 5900 Steps before finishing.
+Manipulator moved 10000 Steps out.
+!!! Line above is NOT correct!!!
+Movement was interupted 10000 Steps before finishing.
+Manipulator moved 10000 Steps out.
+!!! Line above is NOT correct!!!
+Movement was interupted 10000 Steps before finishing.
+Manipulator moved 5000 Steps out.
+!!! Line above is NOT correct!!!
+Movement was interupted 5000 Steps before finishing.
+Manipulator moved 5000 Steps out.
+!!! Line above is NOT correct!!!
+Movement was interupted 4706 Steps before finishing.
+Manipulator moved 60000 Steps in.
+!!! Line above is NOT correct!!!
+Movement was interupted 818 Steps before finishing.
+Manipulator moved 500 Steps up.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 500 Steps down.
+Manipulator moved 60000 Steps out.
+Manipulator moved 1000 Steps up.
+Manipulator moved 500 Steps up.
+Preparation Chamber moved 60000 Steps clockwise.
+Preparation Chamber moved 10000 Steps clockwise.
+Preparation Chamber moved 1000 Steps clockwise.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 500 Steps up.
+Manipulator moved 500 Steps up.
+Manipulator moved 500 Steps down.
+Manipulator moved 500 Steps down.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps left.
+Manipulator moved 500 Steps right.
+Manipulator moved 500 Steps left.
+Manipulator moved 500 Steps left.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 50 Steps out.
+Manipulator moved 50 Steps out.
+Manipulator moved 50 Steps out.
+Manipulator moved 50 Steps out.
+Manipulator moved 50 Steps out.
+Manipulator moved 50 Steps out.
+Manipulator moved 50 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 500 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps out.
+Manipulator moved 50 Steps out.
+Manipulator moved 50 Steps left.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 50 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 500 Steps left.
+Manipulator moved 500 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps right.
+Manipulator moved 500 Steps left.
+Manipulator moved 500 Steps left.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps up.
+Manipulator moved 500 Steps down.
+Manipulator moved 500 Steps down.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps up.
+Manipulator moved 500 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps in.
+Manipulator moved 50 Steps down.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 50 Steps down.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps in.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps left.
+Manipulator moved 500 Steps left.
+Manipulator moved 500 Steps left.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps down.
+Manipulator moved 500 Steps up.
+Manipulator moved 500 Steps up.
+Manipulator moved 500 Steps in.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps right.
+Manipulator moved 500 Steps right.
+Manipulator moved 500 Steps right.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 50 Steps up.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 500 Steps right.
+Manipulator moved 500 Steps left.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps out.
+Manipulator moved 50 Steps down.
+Manipulator moved 50 Steps down.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps left.
+Manipulator moved 1000 Steps right.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 50 Steps down.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps up.
+Manipulator moved 1000 Steps out.
+Manipulator moved 500 Steps in.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 500 Steps out.
+Preparation Chamber moved 48000 Steps counterclockwise.
+Preparation Chamber moved 48000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 43978 Steps before finishing.
+Preparation Chamber moved 48000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 29197 Steps before finishing.
+Manipulator moved 100 Steps down.
+Manipulator moved 1000 Steps down.
+Manipulator moved 1000 Steps down.
+Manipulator moved 100 Steps down.
+Manipulator moved 5000 Steps in.
+Manipulator moved 5000 Steps in.
+!!! Line above is NOT correct!!!
+Movement was interupted 3783 Steps before finishing.
+Manipulator moved 48000 Steps in.
+Manipulator moved 5000 Steps in.
+Manipulator moved 5000 Steps in.
+!!! Line above is NOT correct!!!
+Movement was interupted 472 Steps before finishing.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 500 Steps right.
+Manipulator moved 100 Steps right.
+Manipulator moved 500 Steps in.
+!!! Line above is NOT correct!!!
+Movement was interupted 205 Steps before finishing.
+Manipulator moved 500 Steps right.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps up.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps right.
+Manipulator moved 50 Steps left.
+Manipulator moved 50 Steps left.
+Manipulator moved 50 Steps right.
+Manipulator moved 50 Steps right.
+Manipulator moved 50 Steps right.
+Manipulator moved 50 Steps out.
+Manipulator moved 50 Steps down.
+Manipulator moved 50 Steps left.
+Manipulator moved 50 Steps up.
+Manipulator moved 500 Steps down.
+Manipulator moved 60000 Steps out.
+!!! Line above is NOT correct!!!
+Movement was interupted 109 Steps before finishing.
+Preparation Chamber moved 48000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 14396 Steps before finishing.
+Manipulator moved 500 Steps up.
+Manipulator moved 500 Steps up.
+Preparation Chamber moved 48000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 25049 Steps before finishing.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 500 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 2 Steps before finishing.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Preparation Chamber moved 100 Steps counterclockwise.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps out.
+Manipulator moved 500 Steps down.
+Manipulator moved 500 Steps down.
+Manipulator moved 500 Steps down.
+Manipulator moved 500 Steps down.
+Manipulator moved 500 Steps down.
+Manipulator moved 500 Steps down.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps left.
+Manipulator moved 100 Steps right.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps out.
+Manipulator moved 100 Steps out.
+Preparation Chamber moved 48000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 44336 Steps before finishing.
+Manipulator moved 1000 Steps up.
+Manipulator moved 1000 Steps up.
+Manipulator moved 1000 Steps up.
+Manipulator moved 1000 Steps up.
+Manipulator moved 1000 Steps down.
+Manipulator moved 100 Steps up.
+Preparation Chamber moved 48000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 4464 Steps before finishing.
+Preparation Chamber moved 5000 Steps counterclockwise.
+Preparation Chamber moved 5000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 60 Steps before finishing.
+Manipulator moved 60000 Steps in.
+!!! Line above is NOT correct!!!
+Movement was interupted 56163 Steps before finishing.
+Manipulator moved 60000 Steps in.
+!!! Line above is NOT correct!!!
+Movement was interupted 5908 Steps before finishing.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps in.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps right.
+Manipulator moved 50 Steps right.
+Manipulator moved 50 Steps right.
+Manipulator moved 500 Steps down.
+Manipulator moved 60000 Steps out.
+Manipulator moved 60000 Steps in.
+Manipulator moved 500 Steps up.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps left.
+Manipulator moved 50 Steps left.
+Manipulator moved 50 Steps left.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps up.
+Manipulator moved 50 Steps up.
+Manipulator moved 500 Steps down.
+Manipulator moved 60000 Steps out.
+Manipulator moved 1000 Steps up.
+Manipulator moved 100 Steps up.
+Manipulator moved 100 Steps up.
+Preparation Chamber moved 48000 Steps counterclockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 46893 Steps before finishing.
+Preparation Chamber moved 48000 Steps clockwise.
+Preparation Chamber moved 48000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 29563 Steps before finishing.
+Preparation Chamber moved 48000 Steps clockwise.
+!!! Line above is NOT correct!!!
+Movement was interupted 42352 Steps before finishing.
+Preparation Chamber moved 100 Steps clockwise.
+Preparation Chamber moved 100 Steps clockwise.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 1000 Steps out.
+Manipulator moved 500 Steps left.
+Manipulator moved 500 Steps left.
+Manipulator moved 500 Steps left.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 100 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
+Manipulator moved 500 Steps in.
